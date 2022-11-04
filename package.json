@@ -1,0 +1,16 @@
+{
+  "name": "hometask-integration-testing",
+  "version": "1.0.0",
+  "description": "hometask for integration testing on FE",
+  "main": "index.js",
+  "repository": "https://github.com/katiksamokatik/klapitskaya-tests",
+  "author": "klapitskaya",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "jest": "^29.2.2"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
