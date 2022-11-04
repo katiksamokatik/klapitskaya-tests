@@ -3,7 +3,6 @@ There is a hometask for Integration testing on FE
 
 #### Step 1: Clone the repo on your local machine using **git clone** command.
 #### Step 2: Once it's clonned and it appeared on your machine open the project in any code editor (e.g VSCode, IDEA, WebStorm, etc).
-After that you'redy to run test
 #### Step 3: Run the command `yarn test` in Terminal.
 
 
